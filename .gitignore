@@ -1,0 +1,12 @@
+.venv
+.ipynb_checkpoints
+
+**.swp
+
+tmp
+var/
+local/
+
+makerules.mk
+
+Untitled*ipynb
