@@ -1,26 +1,3 @@
-A collection of tools and techniques for creating boundaries from PDF and other public documents to seed a national dataset of conservation area boundaries:
-
-[https://planning.data.gov.uk/dataset/conservation-area](https://planning.data.gov.uk/dataset/conservation-area)
-
-See also: https://digital-land.github.io/barnet-conservation-areas/
-
-# Licence
-
-The software in this project is open source and covered by the [LICENSE](LICENSE) file.
-
-Individual datasets copied into this repository may have specific copyright and licensing, otherwise all content and data in this repository is
-[© Crown copyright](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/)
-and available under the terms of the [Open Government 3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) licence.
-
-# Methods
-
-Notes below on two different approaches to extracting geographical data:
-
-* Python approach - testing automation using some python scripts
-* Manual approach - testing manual georeference and polygon tracing
-
-## Python approach
-
 **Extracting geographical data from images**
 
 **Author: Dave K Brown,** *david.brown4@communities.gov.uk*
@@ -289,48 +266,3 @@ The following is **suppressed** by using the 2&gt;&1 at the end of the command.
 > <img src="media/image8.png" style="width:4.47218in;height:2.90811in" alt="A screenshot of a computer Description automatically generated" />
 
 Accept defaults!
-
-
-## Manual approach
-
-How to use QGIS to generate a map polygon from PDF map.
-
-Using OSM Standard (Open Street Map) as layer to identify coordinates
-
-Using Honiton as an example
-<https://eastdevon.gov.uk/media/560777/honitoncaa.pdf>
-
-1.  Identify ‘best’ map from available maps. I used the criteria of
-    clearest outline, a legend which doesn’t cover the outline or
-    significant portions of the map, and less artifacts in the map.
-1.  Copy and paste into a .jpeg file (using snipping tool) and if
-    necessary, rotate so north is upwards.
-    <img src="media/image9.png" style="width:6.26806in;height:4.03056in" />
-
-1.  Import into QGIS using the Georeferencer tool (Layer,
-    Georeferencer).
-
-1.  Map at least 6 points from the picture onto the world map to ensure
-    it maps correctly. I find using road junctions, bridges, and corners
-    of fields work well. With OS maps as the source and OSM as the
-    target, the transformation type should be Projective.
-    
-    <img src="media/image10.png" style="width:6.26806in;height:4.03056in" />
-    <img src="media/image11.png" style="width:6.26806in;height:4.03056in" />
-
-1.  Confirm the maps are lined up using transparency, matching roads and
-    other landmarks.
-1.  Create a new vector layer and using the edit, add polygon feature,
-    trace the
-    outline.
-    <img src="media/image12.png" style="width:6.26806in;height:4.03056in" />
-1.  Export the polygon as a csv using the geometry
-    AS\_WKT.
-    <img src="media/image13.png" style="width:6.08418in;height:6.10502in" />
-1.  This gives you a text file where you can get the MULTIPOLYGON
-    definition of the polygon.
-
-Consideration needs to be given to where on the line the actual border
-is. Some areas use a thick line which can be outside, inside or across
-the border. Usually it is obvious which but care must be taken as it can
-vary depending on the policies of the LPA who look after the data.
