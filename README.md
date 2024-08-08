@@ -14,10 +14,32 @@ and available under the terms of the [Open Government 3.0](https://www.nationala
 
 # Methods
 
-Notes below on two different approaches to extracting geographical data:
+This section summarised the results of two different approaches to extracting geographical data:
 
 * Python approach - testing automation using some python scripts
 * Manual approach - testing manual georeference and polygon tracing
+
+Summary of the advantages and challenges to each approach, before more step-by-step detail on each one.
+
+**Python approach**    
+
+Advantages:
+* Could possibly be used to automate parts of processing all of an LPAs conservation areas in a batch (e.g. extracting relevant pdf pages from appraisal docs, processing images to extract a trace of the area, converting an image line to a vector)
+* Would ensure a more standardised approach to geometry creation
+
+Challenges:  
+* Still requires some manual inputs and steps for each area (e.g. identifying the colour of the area to assist extraction, image tidying in Gimp, geo-referencing the image)
+* Would likely still require a quality review of vectors produced in a semi-automated way
+There will likely be some areas which are impossible to process in an automated way (e.g. where the map and outline is in black and white meaning extracting it would be very difficult)  
+
+**Manual approach**  
+
+Advantages:
+* Finer control over how to represent complicated area boundaries in vector format
+* Retaining the map in the image makes geo-referencing easier as it means there are many features to cross-reference with the basemap being used  
+
+Challenges:
+* Time consuming process, estimate is between 1.5-2 hours per area
 
 ## Python approach
 
