@@ -1,0 +1,453 @@
+entity,name,dataset,organisation,website
+600003,Aycliffe and Peterlee Development Corporation,development-corporation,development-corporation:Q105544651,
+600004,Basildon Development Corporation,development-corporation,development-corporation:Q105544654,
+600007,Telford Development Corporation,development-corporation,development-corporation:Q105544669,
+4700006,Stockport Town Centre West Mayoral Development Corporation,development-corporation,development-corporation:Q115585981,https://www.stockportmdc.co.uk/
+4700001,Middlesbrough Development Corporation,development-corporation,development-corporation:Q117149370,https://teesvalley-ca.gov.uk/about/middlesbrough-development-corporation/
+4700002,Hartlepool Development Corporation,development-corporation,development-corporation:Q124604981,https://teesvalley-ca.gov.uk/about/hartlepool-development-corporation/
+1,Old Oak and Park Royal Development Corporation,development-corporation,development-corporation:Q20648596,https://www.london.gov.uk/about-us/organisations-we-work/old-oak-and-park-royal-development-corporation-opdc
+600006,London Docklands Development Corporation,development-corporation,development-corporation:Q3258953,
+4700007,Merseyside Development Development Corporation,development-corporation,development-corporation:Q3920908,
+2,Birmingham Heartlands Development Corporation,development-corporation,development-corporation:Q4916714,
+4700004,Bristol Development Corporation,development-corporation,development-corporation:Q4968888,
+600005,Central Manchester Development Corporation,development-corporation,development-corporation:Q5061392,
+4700005,Crawley Development Corporation,development-corporation,development-corporation:Q5182976,
+4700003,Leeds Development Corporation,development-corporation,development-corporation:Q6515953,
+3,London Legacy Development Corporation,development-corporation,development-corporation:Q6670544,https://www.queenelizabetholympicpark.co.uk/planning-authority/planning-policy
+4,London Thames Gateway Development Corporation,development-corporation,development-corporation:Q6670837,http://www.ltgdc.org.uk/
+4700008,Milton Keynes Development Development Corporation,development-corporation,development-corporation:Q6861239,
+4700009,Peterborough Development Development Corporation,development-corporation,development-corporation:Q7177999,
+4700010,Plymouth Development Development Corporation,development-corporation,development-corporation:Q7205796,
+5,South Tees Development Corporation,development-corporation,development-corporation:Q72456968,https://www.southteesdc.com
+6,Ebbsfleet Development Corporation,development-corporation,development-corporation:Q72463795,https://ebbsfleetdc.org.uk
+4700000,Teesside Development Corporation,development-corporation,development-corporation:Q7694573,
+7,Thurrock Thames Gateway Development Corporation,development-corporation,development-corporation:Q7799380,https://www.gov.uk/government/organisations/thurrock-thames-gateway-development-corporation
+4700011,Trafford Park Development Corporation,development-corporation,development-corporation:Q7832579,
+8,Tyne and Wear Development Corporation,development-corporation,development-corporation:Q7860503,
+9,West Northamptonshire Development Corporation,development-corporation,development-corporation:Q7986087,https://www.gov.uk/government/organisations/the-west-northamptonshire-development-corporation
+600001,"Ministry of Housing, Communities & Local Government",government-organisation,government-organisation:D1342,https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government
+10,Office for National Statistics,government-organisation,government-organisation:D303,https://www.ons.gov.uk
+11,Ordnance Survey,government-organisation,government-organisation:D38,https://www.gov.uk/government/organisations/ordnance-survey
+12,"Ministry of Housing, Communities and Local Government",government-organisation,government-organisation:D4,https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government
+600012,Department for Education,government-organisation,government-organisation:D6,https://www.gov.uk/government/organisations/department-for-education
+13,HM Land Registry,government-organisation,government-organisation:D69,https://www.gov.uk/government/organisations/land-registry
+600002,"Department for Environment, Food & Rural Affairs",government-organisation,government-organisation:D7,https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs
+600011,Forestry Commission,government-organisation,government-organisation:D85,https://www.gov.uk/government/organisations/forestry-commission
+600010,Department for Transport,government-organisation,government-organisation:D9,https://www.gov.uk/government/organisations/department-for-transport
+600009,Environment Agency,government-organisation,government-organisation:EA199,https://www.gov.uk/government/organisations/environment-agency
+14,Planning Inspectorate,government-organisation,government-organisation:EA39,https://www.gov.uk/government/organisations/planning-inspectorate
+15,Valuation Office Agency,government-organisation,government-organisation:EA87,https://www.gov.uk/government/organisations/valuation-office-agency
+16,Historic England,government-organisation,government-organisation:PB1164,https://historicengland.org.uk
+17,Valuation Tribunal for England,government-organisation,government-organisation:PB1204,https://www.gov.uk/government/organisations/valuation-tribunal-for-england
+18,Regulator of Social Housing,government-organisation,government-organisation:PB1218,https://www.gov.uk/government/organisations/regulator-of-social-housing
+19,Homes England,government-organisation,government-organisation:PB1232,https://www.gov.uk/government/organisations/homes-england
+20,Building Regulations Advisory Committee,government-organisation,government-organisation:PB160,https://www.gov.uk/government/organisations/building-regulations-advisory-committee
+501910,Natural England,government-organisation,government-organisation:PB202,https://www.gov.uk/government/organisations/natural-england
+21,Health and Safety Executive,government-organisation,government-organisation:PB207,https://www.gov.uk/government/organisations/health-and-safety-executive
+22,Housing Ombudsman,government-organisation,government-organisation:PB372,https://www.housing-ombudsman.org.uk
+23,Leasehold Advisory Service,government-organisation,government-organisation:PB373,https://www.gov.uk/government/organisations/leasehold-advisory-service
+24,Valuation Tribunal Service,government-organisation,government-organisation:PB375,https://www.gov.uk/government/organisations/valuation-tribunal-service-for-england-valuation-tribunal-service
+25,Architects Registration Board,government-organisation,government-organisation:PC163,https://www.gov.uk/government/organisations/architects-registration-board
+26,Adur District Council,local-authority,local-authority:ADU,https://www.adur-worthing.gov.uk
+27,Allerdale Borough Council,local-authority,local-authority:ALL,https://www.allerdale.gov.uk
+28,Amber Valley Borough Council,local-authority,local-authority:AMB,https://www.ambervalley.gov.uk
+29,Arun District Council,local-authority,local-authority:ARU,https://www.arun.gov.uk
+30,Ashford Borough Council,local-authority,local-authority:ASF,https://www.ashford.gov.uk
+31,Ashfield District Council,local-authority,local-authority:ASH,https://www.ashfield.gov.uk
+32,Aylesbury Vale District Council,local-authority,local-authority:AYL,https://www.aylesburyvaledc.gov.uk
+33,Babergh District Council,local-authority,local-authority:BAB,https://www.babergh.gov.uk
+34,Bassetlaw District Council,local-authority,local-authority:BAE,https://www.bassetlaw.gov.uk
+35,Basildon Borough Council,local-authority,local-authority:BAI,https://www.basildon.gov.uk
+36,Basingstoke and Deane Borough Council,local-authority,local-authority:BAN,https://www.basingstoke.gov.uk
+37,Barrow-in-Furness Borough Council,local-authority,local-authority:BAR,https://www.barrowbc.gov.uk
+38,Bath and North East Somerset Council,local-authority,local-authority:BAS,https://www.bathnes.gov.uk
+39,Blackburn with Darwen Borough Council,local-authority,local-authority:BBD,https://www.blackburn.gov.uk
+40,Bedford Borough Council,local-authority,local-authority:BDF,https://www.bedford.gov.uk
+41,London Borough of Barking and Dagenham,local-authority,local-authority:BDG,https://www.lbbd.gov.uk
+42,London Borough of Brent,local-authority,local-authority:BEN,https://www.brent.gov.uk
+43,London Borough of Bexley,local-authority,local-authority:BEX,https://www.bexley.gov.uk
+44,Birmingham City Council,local-authority,local-authority:BIR,https://www.birmingham.gov.uk
+45,Buckinghamshire County Council,local-authority,local-authority:BKM,https://www.buckscc.gov.uk
+46,Blaby District Council,local-authority,local-authority:BLA,https://www.blaby.gov.uk
+47,Bournemouth Borough Council,local-authority,local-authority:BMH,https://www.bournemouth.gov.uk
+48,London Borough of Barnet,local-authority,local-authority:BNE,https://www.barnet.gov.uk
+49,Brighton and Hove City Council,local-authority,local-authority:BNH,https://www.brighton-hove.gov.uk
+50,Barnsley Metropolitan Borough Council,local-authority,local-authority:BNS,https://www.barnsley.gov.uk
+51,Bolton Metropolitan Borough Council,local-authority,local-authority:BOL,https://www.bolton.gov.uk
+52,Bolsover District Council,local-authority,local-authority:BOS,https://www.bolsover.gov.uk
+53,Boston Borough Council,local-authority,local-authority:BOT,https://www.boston.gov.uk
+54,"Bournemouth, Christchurch and Poole Council",local-authority,local-authority:BPC,https://www.bcpcouncil.gov.uk
+55,Blackpool Borough Council,local-authority,local-authority:BPL,https://www.blackpool.gov.uk
+56,Braintree District Council,local-authority,local-authority:BRA,https://www.braintree.gov.uk
+57,Bracknell Forest Council,local-authority,local-authority:BRC,https://www.bracknell-forest.gov.uk/
+58,City of Bradford Metropolitan District Council,local-authority,local-authority:BRD,https://www.bradford.gov.uk
+59,Breckland District Council,local-authority,local-authority:BRE,https://www.breckland.gov.uk
+60,Bromsgrove District Council,local-authority,local-authority:BRM,https://www.bromsgrove.gov.uk
+61,Broadland District Council,local-authority,local-authority:BRO,https://www.broadland.gov.uk
+62,Broxtowe Borough Council,local-authority,local-authority:BRT,https://www.broxtowe.gov.uk
+63,Brentwood Borough Council,local-authority,local-authority:BRW,https://www.brentwood.gov.uk
+64,Broxbourne Borough Council,local-authority,local-authority:BRX,https://www.broxbourne.gov.uk
+65,London Borough of Bromley,local-authority,local-authority:BRY,https://www.bromley.gov.uk
+66,Bristol City Council,local-authority,local-authority:BST,https://www.bristol.gov.uk
+67,Buckinghamshire Council,local-authority,local-authority:BUC,https://www.buckinghamshire.gov.uk/
+68,Burnley Borough Council,local-authority,local-authority:BUN,https://www.burnley.gov.uk
+69,Bury Metropolitan Borough Council,local-authority,local-authority:BUR,https://www.bury.gov.uk
+70,Cambridge City Council,local-authority,local-authority:CAB,https://www.cambridge.gov.uk
+71,Cambridgeshire County Council,local-authority,local-authority:CAM,https://www.cambridgeshire.gov.uk
+72,Cannock Chase District Council,local-authority,local-authority:CAN,https://www.cannockchasedc.gov.uk
+73,Carlisle City Council,local-authority,local-authority:CAR,https://www.carlisle.gov.uk
+74,Castle Point Borough Council,local-authority,local-authority:CAS,https://www.castlepoint.gov.uk
+75,Canterbury City Council,local-authority,local-authority:CAT,https://www.canterbury.gov.uk
+76,Central Bedfordshire Council,local-authority,local-authority:CBF,https://www.centralbedfordshire.gov.uk
+77,Charnwood Borough Council,local-authority,local-authority:CHA,https://www.charnwood.gov.uk
+78,Christchurch Borough Council,local-authority,local-authority:CHC,https://www.dorsetforyou.com
+79,Cheshire East Council,local-authority,local-authority:CHE,https://www.cheshireeast.gov.uk
+80,Chichester District Council,local-authority,local-authority:CHI,https://www.chichester.gov.uk
+81,Chelmsford City Council,local-authority,local-authority:CHL,https://www.chelmsford.gov.uk
+82,Chiltern District Council,local-authority,local-authority:CHN,https://www.chiltern.gov.uk
+83,Chorley Borough Council,local-authority,local-authority:CHO,https://www.chorley.gov.uk
+84,Cherwell District Council,local-authority,local-authority:CHR,https://www.cherwell-dc.gov.uk
+85,Chesterfield Borough Council,local-authority,local-authority:CHS,https://www.chesterfield.gov.uk
+86,Cheltenham Borough Council,local-authority,local-authority:CHT,https://www.cheltenham.gov.uk
+87,Cheshire West and Chester Council,local-authority,local-authority:CHW,https://www.cheshirewestandchester.gov.uk
+88,Calderdale Metropolitan Borough Council,local-authority,local-authority:CLD,https://www.calderdale.gov.uk
+89,Cumbria County Council,local-authority,local-authority:CMA,https://www.cumbria.gov.uk
+90,London Borough of Camden,local-authority,local-authority:CMD,https://www.camden.gov.uk
+91,Colchester Borough Council,local-authority,local-authority:COL,https://www.colchester.gov.uk
+92,Cornwall Council,local-authority,local-authority:CON,https://www.cornwall.gov.uk
+93,Copeland Borough Council,local-authority,local-authority:COP,https://www.copeland.gov.uk
+94,Corby Borough Council,local-authority,local-authority:COR,https://www.corby.gov.uk
+95,Cotswold District Council,local-authority,local-authority:COT,https://www.cotswold.gov.uk
+96,Coventry City Council,local-authority,local-authority:COV,https://www.coventry.gov.uk
+97,Cambridgeshire and Peterborough Combined Authority,local-authority,local-authority:CPCA,https://cambridgeshirepeterborough-ca.gov.uk
+98,Craven District Council,local-authority,local-authority:CRA,https://www.cravendc.gov.uk
+99,Crawley Borough Council,local-authority,local-authority:CRW,https://www.crawley.gov.uk
+100,London Borough of Croydon,local-authority,local-authority:CRY,https://www.croydon.gov.uk
+10000,Cumberland Unitary Authority,local-authority,local-authority:CUA,https://www.cumberland.gov.uk/
+101,Dacorum Borough Council,local-authority,local-authority:DAC,https://www.dacorum.gov.uk
+102,Darlington Borough Council,local-authority,local-authority:DAL,https://www.darlington.gov.uk
+103,Dartford Borough Council,local-authority,local-authority:DAR,https://www.dartford.gov.uk
+104,Daventry District Council,local-authority,local-authority:DAV,https://www.daventrydc.gov.uk
+105,Derbyshire County Council,local-authority,local-authority:DBY,https://www.derbyshire.gov.uk
+106,Derbyshire Dales District Council,local-authority,local-authority:DEB,https://www.derbyshiredales.gov.uk
+107,Derby City Council,local-authority,local-authority:DER,https://www.derby.gov.uk
+108,Devon County Council,local-authority,local-authority:DEV,https://www.devon.gov.uk
+109,Doncaster Metropolitan Borough Council,local-authority,local-authority:DNC,https://www.doncaster.gov.uk
+110,Dorset County Council,local-authority,local-authority:DOR,https://www.dorsetforyou.com
+111,Dover District Council,local-authority,local-authority:DOV,https://www.dover.gov.uk
+112,Dorset Council,local-authority,local-authority:DST,https://www.dorsetcouncil.gov.uk
+113,Dudley Metropolitan Borough Council,local-authority,local-authority:DUD,https://www.dudley.gov.uk
+114,Durham County Council,local-authority,local-authority:DUR,https://www.durham.gov.uk
+115,London Borough of Ealing,local-authority,local-authority:EAL,https://www.ealing.gov.uk
+116,Eastbourne Borough Council,local-authority,local-authority:EAS,https://www.eastbourne.gov.uk
+117,Eastleigh Borough Council,local-authority,local-authority:EAT,https://www.eastleigh.gov.uk
+118,East Cambridgeshire District Council,local-authority,local-authority:ECA,https://www.eastcambs.gov.uk
+119,East Devon District Council,local-authority,local-authority:EDE,https://eastdevon.gov.uk
+120,Eden District Council,local-authority,local-authority:EDN,https://www.eden.gov.uk
+121,East Dorset District Council,local-authority,local-authority:EDO,http://www.eastdorsetdc.gov.uk/
+122,East Hampshire District Council,local-authority,local-authority:EHA,https://www.easthants.gov.uk
+123,East Hertfordshire District Council,local-authority,local-authority:EHE,https://www.eastherts.gov.uk
+124,East Lindsey District Council,local-authority,local-authority:ELI,https://www.e-lindsey.gov.uk
+125,Elmbridge Borough Council,local-authority,local-authority:ELM,https://www.elmbridge.gov.uk
+126,London Borough of Enfield,local-authority,local-authority:ENF,https://www.enfield.gov.uk
+127,East Northamptonshire Council,local-authority,local-authority:ENO,https://www.east-northamptonshire.gov.uk
+128,Epping Forest District Council,local-authority,local-authority:EPP,https://www.eppingforestdc.gov.uk
+129,Epsom and Ewell Borough Council,local-authority,local-authority:EPS,https://www.epsom-ewell.gov.uk
+130,Erewash Borough Council,local-authority,local-authority:ERE,https://www.erewash.gov.uk
+131,East Riding of Yorkshire Council,local-authority,local-authority:ERY,https://www.eastriding.gov.uk/
+132,East Suffolk Council,local-authority,local-authority:ESK,https://www.eastsuffolk.gov.uk
+133,Essex County Council,local-authority,local-authority:ESS,https://www.essex.gov.uk/
+134,East Staffordshire Borough Council,local-authority,local-authority:EST,https://www.eaststaffsbc.gov.uk
+135,East Sussex County Council,local-authority,local-authority:ESX,https://www.eastsussex.gov.uk
+136,Exeter City Council,local-authority,local-authority:EXE,https://www.exeter.gov.uk
+137,Fareham Borough Council,local-authority,local-authority:FAR,https://www.fareham.gov.uk
+138,Fenland District Council,local-authority,local-authority:FEN,https://www.fenland.gov.uk
+139,Forest of Dean District Council,local-authority,local-authority:FOE,https://www.fdean.gov.uk
+140,Forest Heath District Council,local-authority,local-authority:FOR,https://www.forest-heath.gov.uk
+141,Fylde Borough Council,local-authority,local-authority:FYL,https://www.fylde.gov.uk
+142,Gateshead Metropolitan Borough Council,local-authority,local-authority:GAT,https://www.gateshead.gov.uk
+143,Gedling Borough Council,local-authority,local-authority:GED,https://www.gedling.gov.uk
+144,Greater London Authority,local-authority,local-authority:GLA,https://www.london.gov.uk
+145,Gloucester City Council,local-authority,local-authority:GLO,https://www.gloucester.gov.uk
+146,Gloucestershire County Council,local-authority,local-authority:GLS,https://www.gloucestershire.gov.uk
+147,Greater Manchester Combined Authority,local-authority,local-authority:GMCA,https://www.greatermanchester-ca.gov.uk
+148,Gosport Borough Council,local-authority,local-authority:GOS,https://www.gosport.gov.uk
+149,Gravesham Borough Council,local-authority,local-authority:GRA,https://www.gravesham.gov.uk
+150,Royal Borough of Greenwich,local-authority,local-authority:GRE,https://www.royalgreenwich.gov.uk
+151,Guildford Borough Council,local-authority,local-authority:GRT,https://www.guildford.gov.uk
+152,Great Yarmouth Borough Council,local-authority,local-authority:GRY,https://www.great-yarmouth.gov.uk
+153,Havant Borough Council,local-authority,local-authority:HAA,https://www.havant.gov.uk
+154,Hambleton District Council,local-authority,local-authority:HAE,https://www.hambleton.gov.uk
+155,Harrogate Borough Council,local-authority,local-authority:HAG,https://www.harrogate.gov.uk
+156,Halton Borough Council,local-authority,local-authority:HAL,https://www.halton.gov.uk
+157,Hampshire County Council,local-authority,local-authority:HAM,https://www.hants.gov.uk
+158,Harborough District Council,local-authority,local-authority:HAO,https://www.harborough.gov.uk
+159,Harlow District Council,local-authority,local-authority:HAR,https://www.harlow.gov.uk
+160,Hastings Borough Council,local-authority,local-authority:HAS,https://www.hastings.gov.uk
+161,Hart District Council,local-authority,local-authority:HAT,https://www.hart.gov.uk
+162,London Borough of Havering,local-authority,local-authority:HAV,https://www.havering.gov.uk
+163,London Borough of Hackney,local-authority,local-authority:HCK,https://www.hackney.gov.uk
+164,Herefordshire Council,local-authority,local-authority:HEF,https://www.herefordshire.gov.uk
+165,Hertsmere Borough Council,local-authority,local-authority:HER,https://www.hertsmere.gov.uk
+166,High Peak Borough Council,local-authority,local-authority:HIG,https://www.highpeak.gov.uk
+167,London Borough of Hillingdon,local-authority,local-authority:HIL,https://www.hillingdon.gov.uk
+168,Hinckley and Bosworth Borough Council,local-authority,local-authority:HIN,https://www.hinckley-bosworth.gov.uk
+169,London Borough of Hammersmith & Fulham,local-authority,local-authority:HMF,https://www.lbhf.gov.uk/
+170,London Borough of Hounslow,local-authority,local-authority:HNS,https://www.hounslow.gov.uk
+171,Horsham District Council,local-authority,local-authority:HOR,https://www.horsham.gov.uk
+172,Hartlepool Borough Council,local-authority,local-authority:HPL,https://www.hartlepool.gov.uk
+173,Hertfordshire County Council,local-authority,local-authority:HRT,https://www.hertsdirect.org/
+174,London Borough of Harrow,local-authority,local-authority:HRW,https://www.harrow.gov.uk
+175,London Borough of Haringey,local-authority,local-authority:HRY,https://www.haringey.gov.uk
+176,Huntingdonshire District Council,local-authority,local-authority:HUN,https://www.huntingdonshire.gov.uk
+177,Hyndburn Borough Council,local-authority,local-authority:HYN,https://www.hyndburnbc.gov.uk
+178,Council of the Isles of Scilly,local-authority,local-authority:IOS,https://www.scilly.gov.uk
+179,Isle of Wight Council,local-authority,local-authority:IOW,https://www.iow.gov.uk/
+180,Ipswich Borough Council,local-authority,local-authority:IPS,https://www.ipswich.gov.uk
+181,London Borough of Islington,local-authority,local-authority:ISL,https://www.islington.gov.uk
+182,Royal Borough of Kensington and Chelsea,local-authority,local-authority:KEC,https://www.rbkc.gov.uk/
+183,Kent County Council,local-authority,local-authority:KEN,https://www.kent.gov.uk
+184,Kettering Borough Council,local-authority,local-authority:KET,https://www.kettering.gov.uk
+185,Hull City Council,local-authority,local-authority:KHL,https://www.hullcc.gov.uk
+186,Borough Council of King's Lynn and West Norfolk,local-authority,local-authority:KIN,https://www.west-norfolk.gov.uk
+187,Kirklees Council,local-authority,local-authority:KIR,https://www.kirklees.gov.uk
+188,Royal Borough of Kingston upon Thames,local-authority,local-authority:KTT,https://www.kingston.gov.uk
+189,Knowsley Metropolitan Borough Council,local-authority,local-authority:KWL,https://www.knowsley.gov.uk
+190,Lancaster City Council,local-authority,local-authority:LAC,https://www.lancaster.gov.uk
+191,Lancashire County Council,local-authority,local-authority:LAN,https://www.lancashire.gov.uk
+192,London Borough of Lambeth,local-authority,local-authority:LBH,https://www.lambeth.gov.uk
+193,Leicester City Council,local-authority,local-authority:LCE,https://www.leicester.gov.uk
+194,Liverpool City Region,local-authority,local-authority:LCR,https://www.liverpoolcityregion-ca.gov.uk
+195,Leeds City Council,local-authority,local-authority:LDS,https://www.leeds.gov.uk
+196,Leicestershire County Council,local-authority,local-authority:LEC,https://www.leicestershire.gov.uk/
+197,Lewes District Council,local-authority,local-authority:LEE,https://www.lewes-eastbourne.gov.uk
+198,London Borough of Lewisham,local-authority,local-authority:LEW,https://www.lewisham.gov.uk
+199,City of Lincoln Council,local-authority,local-authority:LIC,https://www.lincoln.gov.uk
+200,Lichfield District Council,local-authority,local-authority:LIF,https://www.lichfielddc.gov.uk
+201,Lincolnshire County Council,local-authority,local-authority:LIN,https://www.lincolnshire.gov.uk
+202,Liverpool City Council,local-authority,local-authority:LIV,https://www.liverpool.gov.uk
+203,City of London Corporation,local-authority,local-authority:LND,https://www.cityoflondon.gov.uk/
+204,Luton Borough Council,local-authority,local-authority:LUT,https://www.luton.gov.uk
+205,Maidstone Borough Council,local-authority,local-authority:MAI,https://www.maidstone.gov.uk
+206,Maldon District Council,local-authority,local-authority:MAL,https://www.maldon.gov.uk
+207,Manchester City Council,local-authority,local-authority:MAN,https://www.manchester.gov.uk
+208,Mansfield District Council,local-authority,local-authority:MAS,https://www.mansfield.gov.uk
+209,Malvern Hills District Council,local-authority,local-authority:MAV,https://www.malvernhills.gov.uk
+210,Middlesbrough Borough Council,local-authority,local-authority:MDB,https://www.middlesbrough.gov.uk
+211,Mid Devon District Council,local-authority,local-authority:MDE,https://www.middevon.gov.uk
+212,Medway Council,local-authority,local-authority:MDW,https://www.medway.gov.uk
+213,Melton Borough Council,local-authority,local-authority:MEL,https://www.melton.gov.uk
+214,Mendip District Council,local-authority,local-authority:MEN,https://www.mendip.gov.uk
+215,Milton Keynes Council,local-authority,local-authority:MIK,https://www.milton-keynes.gov.uk/
+216,Mole Valley District Council,local-authority,local-authority:MOL,https://www.molevalley.gov.uk
+217,London Borough of Merton,local-authority,local-authority:MRT,https://www.merton.gov.uk
+218,Mid Sussex District Council,local-authority,local-authority:MSS,https://www.midsussex.gov.uk
+219,Mid Suffolk District Council,local-authority,local-authority:MSU,https://www.midsuffolk.gov.uk
+220,Northumberland County Council,local-authority,local-authority:NBL,https://www.northumberland.gov.uk
+221,North Devon District Council,local-authority,local-authority:NDE,https://www.northdevon.gov.uk
+222,North Dorset District Council,local-authority,local-authority:NDO,https://www.dorsetforyou.com
+223,Newark and Sherwood District Council,local-authority,local-authority:NEA,https://www.newark-sherwooddc.gov.uk
+224,Newcastle-under-Lyme Borough Council,local-authority,local-authority:NEC,https://www.newcastle-staffs.gov.uk
+225,North East Combined Authority,local-authority,local-authority:NECA,https://northeastca.gov.uk/
+226,North East Derbyshire District Council,local-authority,local-authority:NED,https://www.ne-derbyshire.gov.uk
+227,North East Lincolnshire Council,local-authority,local-authority:NEL,https://www.nelincs.gov.uk
+228,Newcastle City Council,local-authority,local-authority:NET,https://www.newcastle.gov.uk
+229,New Forest District Council,local-authority,local-authority:NEW,https://www.newforestdc.gov.uk
+230,Norfolk County Council,local-authority,local-authority:NFK,https://www.norfolk.gov.uk
+231,Nottingham City Council,local-authority,local-authority:NGM,https://www.nottinghamcity.gov.uk
+232,North Hertfordshire District Council,local-authority,local-authority:NHE,https://www.north-herts.gov.uk
+233,North Kesteven District Council,local-authority,local-authority:NKE,https://www.n-kesteven.gov.uk
+234,North Lincolnshire Council,local-authority,local-authority:NLN,https://www.northlincs.gov.uk
+235,North Norfolk District Council,local-authority,local-authority:NNO,https://www.northnorfolk.org/
+501908,North Northamtonshire Council,local-authority,local-authority:NNUA,https://www.northnorthants.gov.uk/
+236,Northampton Borough Council,local-authority,local-authority:NOR,https://www.northampton.gov.uk
+237,Norwich City Council,local-authority,local-authority:NOW,https://www.norwich.gov.uk
+238,North Somerset Council,local-authority,local-authority:NSM,https://www.n-somerset.gov.uk
+239,North of Tyne Combined Authority,local-authority,local-authority:NTCA,https://www.northoftyne-ca.gov.uk/
+240,Northamptonshire County Council,local-authority,local-authority:NTH,https://www.northamptonshire.gov.uk
+241,Nottinghamshire County Council,local-authority,local-authority:NTT,https://www.nottinghamshire.gov.uk/council-and-democracy
+242,North Tyneside Council,local-authority,local-authority:NTY,https://www.northtyneside.gov.uk
+243,Nuneaton and Bedworth Borough Council,local-authority,local-authority:NUN,https://www.nuneatonandbedworth.gov.uk
+244,North Warwickshire Borough Council,local-authority,local-authority:NWA,https://www.northwarks.gov.uk
+245,North West Leicestershire District Council,local-authority,local-authority:NWL,https://www.nwleics.gov.uk
+246,London Borough of Newham,local-authority,local-authority:NWM,https://www.newham.gov.uk
+247,North Yorkshire County Council,local-authority,local-authority:NYK,https://www.northyorks.gov.uk
+10004,North Yorkshire Council,local-authority,local-authority:NYUA,https://www.northyorks.gov.uk/
+248,Oadby and Wigston Borough Council,local-authority,local-authority:OAD,https://oadby-wigston.gov.uk
+249,Oldham Metropolitan Borough Council,local-authority,local-authority:OLD,https://www.oldham.gov.uk
+250,Oxfordshire County Council,local-authority,local-authority:OXF,https://www.oxfordshire.gov.uk
+251,Oxford City Council,local-authority,local-authority:OXO,https://www.oxford.gov.uk
+252,Pendle Borough Council,local-authority,local-authority:PEN,https://www.pendle.gov.uk
+253,Plymouth City Council,local-authority,local-authority:PLY,https://www.plymouth.gov.uk
+254,Borough of Poole,local-authority,local-authority:POL,https://www.boroughofpoole.com
+255,Portsmouth City Council,local-authority,local-authority:POR,https://www.portsmouth.gov.uk
+256,Preston City Council,local-authority,local-authority:PRE,https://www.preston.gov.uk
+257,Peterborough City Council,local-authority,local-authority:PTE,https://www.peterborough.gov.uk
+258,Purbeck District Council,local-authority,local-authority:PUR,https://www.dorsetforyou.com
+259,Redcar and Cleveland Borough Council,local-authority,local-authority:RCC,https://www.redcar-cleveland.gov.uk
+260,Rochdale Metropolitan Borough Council,local-authority,local-authority:RCH,https://www.rochdale.gov.uk
+261,London Borough of Redbridge,local-authority,local-authority:RDB,https://www.redbridge.gov.uk
+262,Reading Borough Council,local-authority,local-authority:RDG,http://www.reading.gov.uk
+263,Redditch Borough Council,local-authority,local-authority:RED,https://www.redditchbc.gov.uk
+264,Reigate and Banstead Borough Council,local-authority,local-authority:REI,https://www.reigate-banstead.gov.uk
+265,Ribble Valley Borough Council,local-authority,local-authority:RIB,https://www.ribblevalley.gov.uk
+266,London Borough of Richmond upon Thames,local-authority,local-authority:RIC,https://www.richmond.gov.uk
+267,Richmondshire District Council,local-authority,local-authority:RIH,https://richmondshire.gov.uk
+268,Rochford District Council,local-authority,local-authority:ROC,https://www.rochford.gov.uk
+269,Rother District Council,local-authority,local-authority:ROH,https://www.rother.gov.uk
+270,Rossendale Borough Council,local-authority,local-authority:ROS,https://www.rossendale.gov.uk
+271,Rotherham Metropolitan Borough Council,local-authority,local-authority:ROT,https://www.rotherham.gov.uk
+272,Rugby Borough Council,local-authority,local-authority:RUG,https://www.rugby.gov.uk
+273,Rushmoor Borough Council,local-authority,local-authority:RUH,https://www.rushmoor.gov.uk
+274,Runnymede Borough Council,local-authority,local-authority:RUN,https://www.runnymede.gov.uk
+275,Rushcliffe Borough Council,local-authority,local-authority:RUS,https://www.rushcliffe.gov.uk
+276,Rutland County Council,local-authority,local-authority:RUT,https://www.rutland.gov.uk
+277,Ryedale District Council,local-authority,local-authority:RYE,https://www.ryedale.gov.uk
+278,St Albans City and District Council,local-authority,local-authority:SAL,https://www.stalbans.gov.uk
+279,Sandwell Metropolitan Borough Council,local-authority,local-authority:SAW,https://www.sandwell.gov.uk
+280,South Bucks District Council,local-authority,local-authority:SBU,https://www.southbucks.gov.uk
+281,South Cambridgeshire District Council,local-authority,local-authority:SCA,https://www.scambs.gov.uk
+282,Scarborough Borough Council,local-authority,local-authority:SCE,https://www.scarborough.gov.uk
+283,Sheffield City Region,local-authority,local-authority:SCR,https://southyorkshire-ca.gov.uk/
+284,South Derbyshire District Council,local-authority,local-authority:SDE,https://www.southderbyshire.gov.uk/
+285,St Edmundsbury Borough Council,local-authority,local-authority:SED,https://www.stedmundsbury.gov.uk
+286,Sedgemoor District Council,local-authority,local-authority:SEG,https://www.sedgemoor.gov.uk
+287,Selby District Council,local-authority,local-authority:SEL,https://www.selby.gov.uk
+288,Sevenoaks District Council,local-authority,local-authority:SEV,https://www.sevenoaks.gov.uk
+289,Suffolk County Council,local-authority,local-authority:SFK,https://www.suffolk.gov.uk
+290,Sefton Metropolitan Borough Council,local-authority,local-authority:SFT,https://www.sefton.gov.uk
+291,South Gloucestershire Council,local-authority,local-authority:SGC,https://www.southglos.gov.uk
+292,South Hams District Council,local-authority,local-authority:SHA,https://www.southhams.gov.uk/
+293,Folkestone and Hythe Council,local-authority,local-authority:SHE,https://www.folkestone-hythe.gov.uk
+294,Sheffield City Council,local-authority,local-authority:SHF,https://www.sheffield.gov.uk
+295,St Helens Council,local-authority,local-authority:SHN,https://www.sthelens.gov.uk
+296,South Holland District Council,local-authority,local-authority:SHO,https://www.sholland.gov.uk
+297,Shropshire Council,local-authority,local-authority:SHR,https://www.shropshire.gov.uk
+298,South Kesteven District Council,local-authority,local-authority:SKE,https://www.southkesteven.gov.uk
+299,Stockport Metropolitan Borough Council,local-authority,local-authority:SKP,https://www.stockport.gov.uk
+300,South Lakeland District Council,local-authority,local-authority:SLA,https://www.southlakeland.gov.uk
+301,Salford City Council,local-authority,local-authority:SLF,https://www.salford.gov.uk
+302,Slough Borough Council,local-authority,local-authority:SLG,https://www.slough.gov.uk
+303,Sunderland City Council,local-authority,local-authority:SND,https://www.sunderland.gov.uk
+304,South Norfolk District Council,local-authority,local-authority:SNO,https://www.south-norfolk.gov.uk
+305,South Northamptonshire Council,local-authority,local-authority:SNR,https://www.southnorthants.gov.uk
+306,Solihull Metropolitan Borough Council,local-authority,local-authority:SOL,https://www.solihull.gov.uk
+307,Somerset County Council,local-authority,local-authority:SOM,https://www.somerset.gov.uk
+308,Southend-on-Sea Borough Council,local-authority,local-authority:SOS,https://www.southend.gov.uk
+309,South Oxfordshire District Council,local-authority,local-authority:SOX,https://www.southoxon.gov.uk
+310,Spelthorne Borough Council,local-authority,local-authority:SPE,https://www.spelthorne.gov.uk
+311,South Ribble Borough Council,local-authority,local-authority:SRI,https://www.southribble.gov.uk
+312,Surrey County Council,local-authority,local-authority:SRY,https://www.surreycc.gov.uk
+313,South Somerset District Council,local-authority,local-authority:SSO,https://www.southsomerset.gov.uk
+314,South Staffordshire Council,local-authority,local-authority:SST,https://www.sstaffs.gov.uk
+315,Stafford Borough Council,local-authority,local-authority:STA,https://www.staffordbc.gov.uk
+316,Stoke-on-Trent City Council,local-authority,local-authority:STE,https://www.stoke.gov.uk
+317,Staffordshire Moorlands District Council,local-authority,local-authority:STF,https://www.staffsmoorlands.gov.uk
+318,Southampton City Council,local-authority,local-authority:STH,https://www.southampton.gov.uk/
+319,London Borough of Sutton,local-authority,local-authority:STN,https://www.sutton.gov.uk
+320,Stroud District Council,local-authority,local-authority:STO,https://www.stroud.gov.uk
+321,Stratford-on-Avon District Council,local-authority,local-authority:STR,https://www.stratford.gov.uk
+322,Staffordshire County Council,local-authority,local-authority:STS,https://www.staffordshire.gov.uk
+323,Stockton-on-Tees Borough Council,local-authority,local-authority:STT,https://www.stockton.gov.uk
+324,Stevenage Borough Council,local-authority,local-authority:STV,https://www.stevenage.gov.uk
+325,South Tyneside Council,local-authority,local-authority:STY,https://www.southtyneside.info
+10003,Somerset Council,local-authority,local-authority:SUA,https://www.somerset.gov.uk/
+326,Suffolk Coastal District Council,local-authority,local-authority:SUF,https://www.suffolkcoastal.gov.uk
+327,Surrey Heath Borough Council,local-authority,local-authority:SUR,https://www.surreyheath.gov.uk
+328,Swindon Borough Council,local-authority,local-authority:SWD,https://www.swindon.gov.uk
+329,London Borough of Southwark,local-authority,local-authority:SWK,https://www.southwark.gov.uk
+330,Swale Borough Council,local-authority,local-authority:SWL,https://www.swale.gov.uk
+331,Somerset West and Taunton Council,local-authority,local-authority:SWT,https://www.somersetwestandtaunton.gov.uk
+332,Tameside Metropolitan Borough Council,local-authority,local-authority:TAM,https://www.tameside.gov.uk
+333,Tandridge District Council,local-authority,local-authority:TAN,https://www.tandridge.gov.uk
+334,Taunton Deane Borough Council,local-authority,local-authority:TAU,https://www.tauntondeane.gov.uk
+335,Tamworth Borough Council,local-authority,local-authority:TAW,https://www.tamworth.gov.uk
+336,Teignbridge District Council,local-authority,local-authority:TEI,https://www.teignbridge.gov.uk
+337,Tendring District Council,local-authority,local-authority:TEN,https://www.tendringdc.gov.uk
+338,Test Valley Borough Council,local-authority,local-authority:TES,https://www.testvalley.gov.uk
+339,Tewkesbury Borough Council,local-authority,local-authority:TEW,https://tewkesbury.gov.uk
+340,Telford & Wrekin Council,local-authority,local-authority:TFW,https://www.telford.gov.uk
+341,Thanet District Council,local-authority,local-authority:THA,https://thanet.gov.uk
+342,Three Rivers District Council,local-authority,local-authority:THE,https://www.threerivers.gov.uk
+343,Thurrock Council,local-authority,local-authority:THR,https://www.thurrock.gov.uk
+344,Torbay Council,local-authority,local-authority:TOB,https://www.torbay.gov.uk
+345,Tonbridge and Malling Borough Council,local-authority,local-authority:TON,https://www.tmbc.gov.uk
+346,Torridge District Council,local-authority,local-authority:TOR,https://www.torridge.gov.uk
+347,Trafford Metropolitan Borough Council,local-authority,local-authority:TRF,https://www.trafford.gov.uk
+348,Tunbridge Wells Borough Council,local-authority,local-authority:TUN,https://www.tunbridgewells.gov.uk
+349,Tees Valley Combined Authority,local-authority,local-authority:TVCA,https://teesvalley-ca.gov.uk
+350,London Borough of Tower Hamlets,local-authority,local-authority:TWH,https://www.towerhamlets.gov.uk
+351,Uttlesford District Council,local-authority,local-authority:UTT,https://www.uttlesford.gov.uk
+352,Vale of White Horse District Council,local-authority,local-authority:VAL,https://www.whitehorsedc.gov.uk
+353,Waverley Borough Council,local-authority,local-authority:WAE,https://www.waverley.gov.uk/
+354,Warwickshire County Council,local-authority,local-authority:WAR,https://www.warwickshire.gov.uk
+355,Watford Borough Council,local-authority,local-authority:WAT,https://www.watford.gov.uk
+356,Waveney District Council,local-authority,local-authority:WAV,https://www.waveney.gov.uk
+357,Warwick District Council,local-authority,local-authority:WAW,https://www.warwickdc.gov.uk
+358,West Berkshire Council,local-authority,local-authority:WBK,https://www.westberks.gov.uk
+359,West Devon Borough Council,local-authority,local-authority:WDE,https://www.westdevon.gov.uk
+360,West Dorset District Council,local-authority,local-authority:WDO,https://www.dorsetforyou.com
+361,Wealden District Council,local-authority,local-authority:WEA,https://www.wealden.gov.uk
+362,West of England Combined Authority,local-authority,local-authority:WECA,https://www.westofengland-ca.gov.uk
+363,Wellingborough Borough Council,local-authority,local-authority:WEL,https://www.wellingborough.gov.uk
+364,Welwyn Hatfield Borough Council,local-authority,local-authority:WEW,https://www.welhat.gov.uk
+365,Weymouth and Portland Borough Council,local-authority,local-authority:WEY,https://www.dorsetforyou.com
+366,London Borough of Waltham Forest,local-authority,local-authority:WFT,https://www.walthamforest.gov.uk/
+10001,Westmorland and Furness Council,local-authority,local-authority:WFUA,https://www.westmorlandandfurness.gov.uk/
+367,Wigan Metropolitan Borough Council,local-authority,local-authority:WGN,https://www.wigan.gov.uk
+368,Wiltshire Council,local-authority,local-authority:WIL,https://wiltshire.gov.uk
+369,Winchester City Council,local-authority,local-authority:WIN,https://www.winchester.gov.uk
+370,Wakefield Metropolitan District Council,local-authority,local-authority:WKF,https://www.wakefield.gov.uk
+371,West Lancashire Borough Council,local-authority,local-authority:WLA,https://www.westlancs.gov.uk
+372,West Lindsey District Council,local-authority,local-authority:WLI,https://www.west-lindsey.gov.uk
+373,Walsall Metropolitan Borough Council,local-authority,local-authority:WLL,https://www.walsall.gov.uk
+374,City of Wolverhampton Council,local-authority,local-authority:WLV,https://www.wolverhampton.gov.uk
+375,West Midlands Combined Authority,local-authority,local-authority:WMCA,https://www.wmca.org.uk
+376,London Borough of Wandsworth,local-authority,local-authority:WND,https://www.wandsworth.gov.uk
+377,Royal Borough of Windsor and Maidenhead,local-authority,local-authority:WNM,https://www.rbwm.gov.uk/
+501909,West Northamtonshire Council,local-authority,local-authority:WNUA,https://www.westnorthants.gov.uk/
+378,Worcester City Council,local-authority,local-authority:WOC,https://www.worcester.gov.uk
+379,Woking Borough Council,local-authority,local-authority:WOI,https://www.woking.gov.uk
+380,Wokingham Borough Council,local-authority,local-authority:WOK,https://www.wokingham.gov.uk
+381,Worcestershire County Council,local-authority,local-authority:WOR,https://www.worcestershire.gov.uk
+382,Worthing Borough Council,local-authority,local-authority:WOT,https://www.adur-worthing.gov.uk
+383,West Oxfordshire District Council,local-authority,local-authority:WOX,https://www.westoxon.gov.uk
+384,Wirral Borough Council,local-authority,local-authority:WRL,https://www.wirral.gov.uk
+385,Warrington Borough Council,local-authority,local-authority:WRT,https://www.warrington.gov.uk
+386,West Suffolk Council,local-authority,local-authority:WSK,https://www.westsuffolk.gov.uk
+387,City of Westminster,local-authority,local-authority:WSM,https://www.westminster.gov.uk
+388,West Somerset District Council,local-authority,local-authority:WSO,https://www.westsomersetonline.gov.uk
+389,West Sussex County Council,local-authority,local-authority:WSX,https://www.westsussex.gov.uk
+390,Wychavon District Council,local-authority,local-authority:WYC,https://www.wychavon.gov.uk
+391,West Yorkshire Combined Authority,local-authority,local-authority:WYCA,https://www.westyorks-ca.gov.uk/
+392,Wyre Forest District Council,local-authority,local-authority:WYE,https://www.wyreforestdc.gov.uk
+393,Wycombe District Council,local-authority,local-authority:WYO,https://www.wycombe.gov.uk
+394,Wyre Borough Council,local-authority,local-authority:WYR,https://www.wyre.gov.uk
+395,City of York Council,local-authority,local-authority:YOR,https://www.york.gov.uk
+396,South Downs National Park Authority,national-park-authority,national-park-authority:Q20198711,https://www.southdowns.gov.uk
+397,Lake District National Park Authority,national-park-authority,national-park-authority:Q27159704,https://www.lakedistrict.gov.uk
+398,Yorkshire Dales National Park Authority,national-park-authority,national-park-authority:Q27178932,https://www.yorkshiredales.org.uk
+399,Broads Authority,national-park-authority,national-park-authority:Q4972284,http://www.broads-authority.gov.uk/broads-authority
+400,Dartmoor National Park Authority,national-park-authority,national-park-authority:Q5225646,https://www.dartmoor.gov.uk
+401,New Forest National Park Authority,national-park-authority,national-park-authority:Q72617158,https://www.newforestnpa.gov.uk
+402,North York Moors National Park Authority,national-park-authority,national-park-authority:Q72617669,https://www.northyorkmoors.org.uk
+403,Exmoor National Park Authority,national-park-authority,national-park-authority:Q72617784,https://www.exmoor-nationalpark.gov.uk
+404,Northumberland National Park Authority,national-park-authority,national-park-authority:Q72617890,https://www.northumberlandnationalpark.org.uk
+405,Peak District National Park Authority,national-park-authority,national-park-authority:Q72617988,https://www.peakdistrict.gov.uk
+600008,Wikimedia Foundation,nonprofit,nonprofit:Q180,https://wikimediafoundation.org/
+408,West Midlands Passenger Transport Executive,passenger-transport-executive,passenger-transport-executive:Q25171369,
+15300000,Greater Manchester Passenger Transport Executive,passenger-transport-executive,passenger-transport-executive:Q54817549,
+409,Merseytravel,passenger-transport-executive,passenger-transport-executive:Q6820591,http://www.merseytravel.gov.uk
+410,Transport for London,passenger-transport-executive,passenger-transport-executive:Q682520,https://tfl.gov.uk/
+411,South Yorkshire Passenger Transport Executive,passenger-transport-executive,passenger-transport-executive:Q7569004,http://www.sypte.co.uk/
+412,Transport for Greater Manchester,passenger-transport-executive,passenger-transport-executive:Q7834921,http://www.tfgm.com/
+413,Tyne and Wear Passenger Transport Executive,passenger-transport-executive,passenger-transport-executive:Q7860508,http://www.nexus.org.uk
+414,Transport for West Midlands,passenger-transport-executive,passenger-transport-executive:Q7985947,https://www.tfwm.org.uk/
+415,West Yorkshire Passenger Transport Executive,passenger-transport-executive,passenger-transport-executive:Q7987043,http://www.wymetro.com/
+406,GeoPlace,public-authority,public-authority:Q5533909,https://www.geoplace.co.uk/
+407,Lee Valley Regional Park Authority,regional-park-authority,regional-park-authority:Q6515400,https://www.leevalleypark.org.uk/
+416,East London Waste Authority,waste-authority,waste-authority:Q20711950,http://www.recycleforyourcommunity.com
+417,North London Waste Authority,waste-authority,waste-authority:Q20713477,http://nlwa.gov.uk/
+418,West London Waste Authority,waste-authority,waste-authority:Q21921612,http://westlondonwaste.gov.uk
+419,Western Riverside Waste Authority,waste-authority,waste-authority:Q21935501,http://www.wrwa.gov.uk/
+420,Greater Manchester Waste Disposal Authority,waste-authority,waste-authority:Q5600652,http://www.gmwda.gov.uk/
