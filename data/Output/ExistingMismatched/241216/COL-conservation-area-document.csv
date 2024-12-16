@@ -1,0 +1,49 @@
+reference,conservation-area,name,documentation-url,document-url,document-type,notes,entry_date,start_date,end_date,entity
+D_COL_91_CA_1_1,COL_91_CA_1,"Birch","","",area-appraisal,,,1993-09-01,,44001484.0
+D_COL_91_CA_1_2,COL_91_CA_1,"Birch","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,1993-09-01,,44001484.0
+D_COL_91_CA_2_1,COL_91_CA_2,"Boxted","","",area-appraisal,,,,,44001474.0
+D_COL_91_CA_2_2,COL_91_CA_2,"Boxted","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001474.0
+D_COL_91_CA_3_1,COL_91_CA_3,"Chappel","","",area-appraisal,,,,,44001480.0
+D_COL_91_CA_3_2,COL_91_CA_3,"Chappel","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001480.0
+D_COL_91_CA_4_1,COL_91_CA_4,"Colchester Area 1","","",area-appraisal,,,,,44001148.0
+D_COL_91_CA_4_2,COL_91_CA_4,"Colchester Area 1","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001148.0
+D_COL_91_CA_5_1,COL_91_CA_5,"Colchester Area 2","","",area-appraisal,,,,,44001483.0
+D_COL_91_CA_5_2,COL_91_CA_5,"Colchester Area 2","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001483.0
+D_COL_91_CA_6_1,COL_91_CA_6,"Colchester Area 3","","",area-appraisal,,,,,44001145.0
+D_COL_91_CA_6_2,COL_91_CA_6,"Colchester Area 3","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001145.0
+D_COL_91_CA_7_1,COL_91_CA_7,"Colchester Area 4","","",area-appraisal,,,,,COL_91_CA_7_New
+D_COL_91_CA_7_2,COL_91_CA_7,"Colchester Area 4","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,COL_91_CA_7_New
+D_COL_91_CA_8_1,COL_91_CA_8,"Colchester Area 5 Mill Field Estate","https://www.colchester.gov.uk/info/cbc-article/?catid=planning-policy&id=KA-03371","https://cbccrmdata.blob.core.windows.net/noteattachment/CBC-Planning-Mill-Field-Estate-Conservation-Area-Appraisal-and-Management-Proposals-Conservation%20Area%20Appraisal%20and%20Management%20Proposals%20for%20Mill%20Field%20Estate.pdf",area-appraisal,,,,,COL_91_CA_8_New
+D_COL_91_CA_8_2,COL_91_CA_8,"Colchester Area 5 Mill Field Estate","https://www.colchester.gov.uk/info/cbc-article/?catid=planning-policy&id=KA-03371",https://cbccrmdata.blob.core.windows.net/noteattachment/CBC-Planning-Mill-Field-Estate-Conservation-Area-map-Map_MILLFIELD%20ESTATE%20CA.jpg,area-map,,,,,COL_91_CA_8_New
+D_COL_91_CA_9_1,COL_91_CA_9,"Distillery Pond","","",area-appraisal,,,,,44001478.0
+D_COL_91_CA_9_2,COL_91_CA_9,"Distillery Pond","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001478.0
+D_COL_91_CA_10_1,COL_91_CA_10,"Hythe","","",area-appraisal,,,,,44001144.0
+D_COL_91_CA_10_2,COL_91_CA_10,"Hythe","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001144.0
+D_COL_91_CA_11_1,COL_91_CA_11,"Copford","","",area-appraisal,,,,,44001482.0
+D_COL_91_CA_11_2,COL_91_CA_11,"Copford","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001482.0
+D_COL_91_CA_12_1,COL_91_CA_12,"Dedham","","",area-appraisal,,,1974-07-31,,44001140.0
+D_COL_91_CA_12_2,COL_91_CA_12,"Dedham","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,1974-07-31,,44001140.0
+D_COL_91_CA_13_1,COL_91_CA_13,"Fingringhoe","","",area-appraisal,,,,,44001142.0
+D_COL_91_CA_13_2,COL_91_CA_13,"Fingringhoe","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001142.0
+D_COL_91_CA_14_1,COL_91_CA_14,"Ford Street","","",area-appraisal,,,,,44001473.0
+D_COL_91_CA_14_2,COL_91_CA_14,"Ford Street","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001473.0
+D_COL_91_CA_15_1,COL_91_CA_15,"Garrison","","",area-appraisal,,,,,44001149.0
+D_COL_91_CA_15_2,COL_91_CA_15,"Garrison","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001149.0
+D_COL_91_CA_16_1,COL_91_CA_16,"Great Tey","","",area-appraisal,,,,,44001146.0
+D_COL_91_CA_16_2,COL_91_CA_16,"Great Tey","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001146.0
+D_COL_91_CA_17_1,COL_91_CA_17,"Little Horkesley","","",area-appraisal,,,,,44001475.0
+D_COL_91_CA_17_2,COL_91_CA_17,"Little Horkesley","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001475.0
+D_COL_91_CA_18_1,COL_91_CA_18,"Messing","","",area-appraisal,,,,,44001476.0
+D_COL_91_CA_18_2,COL_91_CA_18,"Messing","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001476.0
+D_COL_91_CA_19_1,COL_91_CA_19,"New Town","","",area-appraisal,,,1993-04-17,,44001143.0
+D_COL_91_CA_19_2,COL_91_CA_19,"New Town","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,1993-04-17,,44001143.0
+D_COL_91_CA_20_1,COL_91_CA_20,"Rowhedge","","",area-appraisal,,,,,44001481.0
+D_COL_91_CA_20_2,COL_91_CA_20,"Rowhedge","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001481.0
+D_COL_91_CA_21_1,COL_91_CA_21,"Stratford St Mary","","",area-appraisal,,,,,44001477.0
+D_COL_91_CA_21_2,COL_91_CA_21,"Stratford St Mary","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001477.0
+D_COL_91_CA_22_1,COL_91_CA_22,"West Mersea","","",area-appraisal,,,1989-05-15,,44001141.0
+D_COL_91_CA_22_2,COL_91_CA_22,"West Mersea","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,1989-05-15,,44001141.0
+D_COL_91_CA_23_1,COL_91_CA_23,"Wivenhoe","","",area-appraisal,,,,,44001147.0
+D_COL_91_CA_23_2,COL_91_CA_23,"Wivenhoe","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001147.0
+D_COL_91_CA_24_1,COL_91_CA_24,"Wormingford","","",area-appraisal,,,,,44001479.0
+D_COL_91_CA_24_2,COL_91_CA_24,"Wormingford","",https://property.colchester.gov.uk/NorthgateM3LP/ES/Presentation/Gis/Planning/Map,area-map,,,,,44001479.0
