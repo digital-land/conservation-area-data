@@ -1,0 +1,43 @@
+reference,conservation-area,name,documentation-url,document-url,document-type,notes,entry_date,start_date,end_date,entity
+D_STO_320_CA_1_1,STO_320_CA_1,"Alderley","","",area-appraisal,,,,,44000476.0
+D_STO_320_CA_2_1,STO_320_CA_2,"Amberley","","",area-appraisal,,,,,44000489.0
+D_STO_320_CA_3_1,STO_320_CA_3,"Arlingham","","",area-appraisal,,,,,44000758.0
+D_STO_320_CA_4_1,STO_320_CA_4,"Berkeley","","",area-appraisal,,,,,44000759.0
+D_STO_320_CA_5_1,STO_320_CA_5,"Bisley","","https://www.stroud.gov.uk/media/4hsjhult/6-bisley-cas-june-2007.pdf",area-appraisal,,,,,44000475.0
+D_STO_320_CA_6_1,STO_320_CA_6,"Box","","",area-appraisal,,,,,44000474.0
+D_STO_320_CA_7_1,STO_320_CA_7,"Bussage and Brownshill","","",area-appraisal,,,,,44000486.0
+D_STO_320_CA_8_1,STO_320_CA_8,"Chalford Hill","","",area-appraisal,,,,,44000481.0
+D_STO_320_CA_9_1,STO_320_CA_9,"Chalford Vale","","",area-appraisal,,,,,STO_320_CA_9_New
+D_STO_320_CA_10_1,STO_320_CA_10,"Dunkirk Mill and Watledge","","",area-appraisal,,,,,STO_320_CA_10_New
+D_STO_320_CA_11_1,STO_320_CA_11,"Dursley","","",area-appraisal,,,,,44000493.0
+D_STO_320_CA_12_1,STO_320_CA_12,"Eastcombe","","",area-appraisal,,,,,44000484.0
+D_STO_320_CA_13_1,STO_320_CA_13,"Ebley Mills","","",area-appraisal,,,,,STO_320_CA_13_New
+D_STO_320_CA_14_1,STO_320_CA_14,"Frampton on Severn","","https://www.stroud.gov.uk/media/z3ipnnos/7-frampton-cas-november-2008.pdf",area-appraisal,,,,,STO_320_CA_14_New
+D_STO_320_CA_15_1,STO_320_CA_15,"France Lynch","","",area-appraisal,,,,,44000482.0
+D_STO_320_CA_16_1,STO_320_CA_16,"Gyde House","","",area-appraisal,,,,,44000473.0
+D_STO_320_CA_17_1,STO_320_CA_17,"Industrial Heritage Conservation Area","","https://www.stroud.gov.uk/environment/planning-and-building-control/conservation-biodiversity-listed-buildings-trees-and-hedgerows/conservation-area-no29-stroud-industrial-heritage/ihca-cas-volume-1-summary-and-character-overview/",area-appraisal,,,,,STO_320_CA_17_New
+D_STO_320_CA_18_1,STO_320_CA_18,"Kingswood","","https://www.stroud.gov.uk/media/lvzitgwc/8-kingswood-cas-december-2014.pdf",area-appraisal,,,,,44005664.0
+D_STO_320_CA_19_1,STO_320_CA_19,"Lodgemore and Fromehall Mills","","",area-appraisal,,,,,STO_320_CA_19_New
+D_STO_320_CA_20_1,STO_320_CA_20,"Longfords Mills","","",area-appraisal,,,,,STO_320_CA_20_New
+D_STO_320_CA_21_1,STO_320_CA_21,"Minchinhampton","","",area-appraisal,,,,,44000488.0
+D_STO_320_CA_22_1,STO_320_CA_22,"Miserden","","",area-appraisal,,,,,44000491.0
+D_STO_320_CA_23_1,STO_320_CA_23,"Nailsworth","","",area-appraisal,,,,,STO_320_CA_23_New
+D_STO_320_CA_24_1,STO_320_CA_24,"Nympsfield","","",area-appraisal,,,,,44000479.0
+D_STO_320_CA_25_1,STO_320_CA_25,"Painswick","","",area-appraisal,,,,,44000478.0
+D_STO_320_CA_26_1,STO_320_CA_26,"Pitchcombe","","",area-appraisal,,,,,44000477.0
+D_STO_320_CA_27_1,STO_320_CA_27,"Randwick","","",area-appraisal,,,,,44000494.0
+D_STO_320_CA_28_1,STO_320_CA_28,"Saul","","",area-appraisal,,,,,44000485.0
+D_STO_320_CA_29_1,STO_320_CA_29,"Sharpness Old Dock","","",area-appraisal,,,,,44000760.0
+D_STO_320_CA_30_1,STO_320_CA_30,"Sheepscombe","","",area-appraisal,,,,,44000487.0
+D_STO_320_CA_31_1,STO_320_CA_31,"South Woodchester","","",area-appraisal,,,,,STO_320_CA_31_New
+D_STO_320_CA_32_1,STO_320_CA_32,"St Mary's and Belvedere Mills","","",area-appraisal,,,,,STO_320_CA_32_New
+D_STO_320_CA_33_1,STO_320_CA_33,"Stanley Mills","","",area-appraisal,,,,,STO_320_CA_33_New
+D_STO_320_CA_34_1,STO_320_CA_34,"Stinchcombe","","",area-appraisal,,,,,44000480.0
+D_STO_320_CA_35_1,STO_320_CA_35,"Stratford Park","","https://www.stroud.gov.uk/media/fxtd34fz/34-stratford-park-cas-april-2008.pdf",area-appraisal,,,,,STO_320_CA_35_New
+D_STO_320_CA_36_1,STO_320_CA_36,"Stroud Station","","",area-appraisal,,,,,STO_320_CA_36_New
+D_STO_320_CA_37_1,STO_320_CA_37,"Stroud Top of the Town","","https://www.stroud.gov.uk/media/ff0dapon/16-top-of-town-cas-april-2008.pdf",area-appraisal,,,,,STO_320_CA_37_New
+D_STO_320_CA_38_1,STO_320_CA_38,"Stroud Town Centre","","https://www.stroud.gov.uk/media/ky4f2izn/17-18-stroud-town-centre-cas-april-2008.pdf",area-appraisal,,,,,44006691.0
+D_STO_320_CA_39_1,STO_320_CA_39,"Uley","","",area-appraisal,,,,,44000483.0
+D_STO_320_CA_40_1,STO_320_CA_40,"Woodmancote","","",area-appraisal,,,,,44000492.0
+D_STO_320_CA_41_1,STO_320_CA_41,"Wotton-under-Edge","","https://www.stroud.gov.uk/media/co2pa34v/map-2-adopted-conservation-area-boundary-amendments-wotton-cas-1999.pdf",area-appraisal,,,,,44000490.0
+D_STO_320_CA_41_2,STO_320_CA_41,"Wotton-under-Edge","",https://www.stroud.gov.uk/media/52mankd5/1-wotton-cas-november-1999.pdf,area-map,,,,,44000490.0

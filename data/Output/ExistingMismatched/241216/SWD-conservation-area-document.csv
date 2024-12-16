@@ -1,0 +1,57 @@
+reference,conservation-area,name,documentation-url,document-url,document-type,notes,entry_date,start_date,end_date,entity
+D_SWD_328_CA_1_1,SWD_328_CA_1,"Badbury","https://www.swindon.gov.uk/info/20059/land_and_premises/373/conservation_areas","https://www.swindon.gov.uk/download/downloads/id/5146/conservation_area_appraisal_for_badbury.pdf",area-appraisal,,,,,44000789.0
+D_SWD_328_CA_1_2,SWD_328_CA_1,"Badbury","https://www.swindon.gov.uk/info/20059/land_and_premises/373/conservation_areas",https://www.swindon.gov.uk/download/downloads/id/5491/badbury_conservation_area_map.pdf,area-map,,,,,44000789.0
+D_SWD_328_CA_2_1,SWD_328_CA_2,"Bishopstone","","https://www.swindon.gov.uk/download/downloads/id/5255/conservation_area_appraisal_-_bishopstone.pdf",area-appraisal,,,,,44000791.0
+D_SWD_328_CA_2_2,SWD_328_CA_2,"Bishopstone","",https://www.swindon.gov.uk/download/downloads/id/5492/bishopstone_conservation_area_map.pdf,area-map,,,,,44000791.0
+D_SWD_328_CA_3_1,SWD_328_CA_3,"Blunsdon St Andrew","","https://www.swindon.gov.uk/download/downloads/id/5244/conservation_area_appraisal_-_blunsdon_st_andrew.pdf",area-appraisal,,,,,44000792.0
+D_SWD_328_CA_3_2,SWD_328_CA_3,"Blunsdon St Andrew","",https://www.swindon.gov.uk/download/downloads/id/5493/blunsdon_st_andrew_conservation_area_map.pdf,area-map,,,,,44000792.0
+D_SWD_328_CA_4_1,SWD_328_CA_4,"Broad Blunsdon","","https://www.swindon.gov.uk/download/downloads/id/5251/conservation_area_appraisal_-_broad_blunsdon.pdf",area-appraisal,,,,,44000793.0
+D_SWD_328_CA_4_2,SWD_328_CA_4,"Broad Blunsdon","",https://www.swindon.gov.uk/download/downloads/id/5494/broad_blunsdon_conservation_area_map.pdf,area-map,,,,,44000793.0
+D_SWD_328_CA_5_1,SWD_328_CA_5,"Castle Eaton","","https://www.swindon.gov.uk/download/downloads/id/5253/conservation_area_appraisal_-_castle_eaton.pdf",area-appraisal,,,,,44003959.0
+D_SWD_328_CA_5_2,SWD_328_CA_5,"Castle Eaton","",https://www.swindon.gov.uk/download/downloads/id/5495/castle_eaton_conservation_area_map.pdf,area-map,,,,,44003959.0
+D_SWD_328_CA_6_1,SWD_328_CA_6,"Chiseldon","","https://www.swindon.gov.uk/download/downloads/id/5243/conservation_area_appraisal_-_chiseldon.pdf",area-appraisal,,,,,44003965.0
+D_SWD_328_CA_6_2,SWD_328_CA_6,"Chiseldon","",https://www.swindon.gov.uk/download/downloads/id/5496/chiseldon_conservation_area_map.pdf,area-map,,,,,44003965.0
+D_SWD_328_CA_7_1,SWD_328_CA_7,"Hampton","","https://www.swindon.gov.uk/download/downloads/id/5261/conservation_area_appraisal_-_hampton.pdf",area-appraisal,,,,,44000795.0
+D_SWD_328_CA_7_2,SWD_328_CA_7,"Hampton","",https://www.swindon.gov.uk/download/downloads/id/5497/hampton_conservation_area_map.pdf,area-map,,,,,44000795.0
+D_SWD_328_CA_8_1,SWD_328_CA_8,"Hannington","","https://www.swindon.gov.uk/download/downloads/id/5256/conservation_area_appraisal_-_hannington.pdf",area-appraisal,,,,,44000796.0
+D_SWD_328_CA_8_2,SWD_328_CA_8,"Hannington","",https://www.swindon.gov.uk/download/downloads/id/5498/hannington_conservation_area_map.pdf,area-map,,,,,44000796.0
+D_SWD_328_CA_9_1,SWD_328_CA_9,"Highworth","","https://www.swindon.gov.uk/download/downloads/id/5236/conservation_area_appraisal_-_highworth.pdf",area-appraisal,,,,,44000797.0
+D_SWD_328_CA_9_2,SWD_328_CA_9,"Highworth","",https://www.swindon.gov.uk/download/downloads/id/5499/highworth_conservation_area_map.pdf,area-map,,,,,44000797.0
+D_SWD_328_CA_10_1,SWD_328_CA_10,"Hinton Parva","","https://www.swindon.gov.uk/download/downloads/id/5241/conservation_area_appraisal_-_hinton_parva.pdf",area-appraisal,,,,,44000798.0
+D_SWD_328_CA_10_2,SWD_328_CA_10,"Hinton Parva","",https://www.swindon.gov.uk/download/downloads/id/5500/hinton_parva_conservation_area_map.pdf,area-map,,,,,44000798.0
+D_SWD_328_CA_11_1,SWD_328_CA_11,"Hodson","","https://www.swindon.gov.uk/download/downloads/id/5257/conservation_area_appraisal_-_hodson.pdf",area-appraisal,,,,,44000799.0
+D_SWD_328_CA_11_2,SWD_328_CA_11,"Hodson","",https://www.swindon.gov.uk/download/downloads/id/5501/hodson_conservation_area_map.pdf,area-map,,,,,44000799.0
+D_SWD_328_CA_12_1,SWD_328_CA_12,"Liddington","","https://www.swindon.gov.uk/download/downloads/id/5545/conservation_area_appraisal_-_liddington.pdf",area-appraisal,,,,,44000800.0
+D_SWD_328_CA_12_2,SWD_328_CA_12,"Liddington","",https://www.swindon.gov.uk/download/downloads/id/5502/liddington_conservation_area_map.pdf,area-map,,,,,44000800.0
+D_SWD_328_CA_13_1,SWD_328_CA_13,"Lower Blunsdon","","https://www.swindon.gov.uk/download/downloads/id/5238/conservation_area_appraisal_-_lower_blunsdon.pdf",area-appraisal,,,,,44003962.0
+D_SWD_328_CA_13_2,SWD_328_CA_13,"Lower Blunsdon","",https://www.swindon.gov.uk/download/downloads/id/5503/lower_blunsdon_conservation_area_map.pdf,area-map,,,,,44003962.0
+D_SWD_328_CA_14_1,SWD_328_CA_14,"Lower Wanborough","","https://www.swindon.gov.uk/download/downloads/id/5254/conservation_area_appraisal_-_lower_wanborough.pdf",area-appraisal,,,,,44003966.0
+D_SWD_328_CA_14_2,SWD_328_CA_14,"Lower Wanborough","",https://www.swindon.gov.uk/download/downloads/id/5518/lower_wanborough_conservation_area_map.pdf,area-map,,,,,44003966.0
+D_SWD_328_CA_15_1,SWD_328_CA_15,"Rodbourne Cheney","","https://www.swindon.gov.uk/download/downloads/id/5258/conservation_area_appraisal_-_rodbourne_cheney.pdf",area-appraisal,,,,,44000806.0
+D_SWD_328_CA_15_2,SWD_328_CA_15,"Rodbourne Cheney","",https://www.swindon.gov.uk/download/downloads/id/5514/swindon_-_rodbourne_cheney_conservation_area_map.pdf,area-map,,,,,44000806.0
+D_SWD_328_CA_16_1,SWD_328_CA_16,"Sevenhampton","","https://www.swindon.gov.uk/download/downloads/id/5259/conservation_area_appraisal_-_sevenhampton.pdf",area-appraisal,,,,,44003960.0
+D_SWD_328_CA_16_2,SWD_328_CA_16,"Sevenhampton","",https://www.swindon.gov.uk/download/downloads/id/5504/sevenhampton_conservation_area_map.pdf,area-map,,,,,44003960.0
+D_SWD_328_CA_17_1,SWD_328_CA_17,"Stanton Fitzwarren","","https://www.swindon.gov.uk/download/downloads/id/5252/conservation_area_appraisal_-_stanton_fitzwarren.pdf",area-appraisal,,,,,44003961.0
+D_SWD_328_CA_17_2,SWD_328_CA_17,"Stanton Fitzwarren","",https://www.swindon.gov.uk/download/downloads/id/5505/stanton_fitzwarren_conservation_area_map.pdf,area-map,,,,,44003961.0
+D_SWD_328_CA_18_1,SWD_328_CA_18,"Stratton St Margaret (Kingsdown)","","https://www.swindon.gov.uk/download/downloads/id/5250/conservation_area_appraisal_-_stratton_and_kingsdown.pdf",area-appraisal,,,,,44003963.0
+D_SWD_328_CA_18_2,SWD_328_CA_18,"Stratton St Margaret (Kingsdown)","",https://www.swindon.gov.uk/download/downloads/id/5506/stratton_st_margaret_kingsdown_conservation_area_map.pdf,area-map,,,,,44003963.0
+D_SWD_328_CA_19_1,SWD_328_CA_19,"Stratton St Margaret (Lower Stratton)","","https://www.swindon.gov.uk/download/downloads/id/5237/conservation_area_appraisal_-_stratton_and_lower_stratton.pdf",area-appraisal,,,,,44000801.0
+D_SWD_328_CA_19_2,SWD_328_CA_19,"Stratton St Margaret (Lower Stratton)","",https://www.swindon.gov.uk/download/downloads/id/5507/stratton_st_margaret_lower_stratton_conservation_area_map.pdf,area-map,,,,,44000801.0
+D_SWD_328_CA_20_1,SWD_328_CA_20,"Swindon Devizes Road","","https://www.swindon.gov.uk/download/downloads/id/5246/conservation_area_appraisal_-_old_town_devizes_road.pdf",area-appraisal,,,,,44000794.0
+D_SWD_328_CA_20_2,SWD_328_CA_20,"Swindon Devizes Road","",https://www.swindon.gov.uk/download/downloads/id/5508/swindon_old_town_devizes_road_conservation_area_map.pdf,area-map,,,,,44000794.0
+D_SWD_328_CA_21_1,SWD_328_CA_21,"Swindon Old Town","","https://www.swindon.gov.uk/download/downloads/id/5235/conservation_area_appraisal_-_swindon_old_town.pdf",area-appraisal,,,,,44000802.0
+D_SWD_328_CA_21_2,SWD_328_CA_21,"Swindon Old Town","",https://www.swindon.gov.uk/download/downloads/id/5509/swindon_old_town_conservation_area_map.pdf,area-map,,,,,44000802.0
+D_SWD_328_CA_22_1,SWD_328_CA_22,"Swindon Prospect Place","","https://www.swindon.gov.uk/download/downloads/id/5245/conservation_area_appraisal_-_swindon_prospect_place.pdf",area-appraisal,,,,,44000803.0
+D_SWD_328_CA_22_2,SWD_328_CA_22,"Swindon Prospect Place","",https://www.swindon.gov.uk/download/downloads/id/5510/swindon_old_town_prospect_place_conservation_area_map.pdf,area-map,,,,,44000803.0
+D_SWD_328_CA_23_1,SWD_328_CA_23,"Swindonâ€™s Railway","","https://www.swindon.gov.uk/download/downloads/id/6760/swindon_railway_conservation_area_appraisal_and_management_plan.pdf",area-appraisal,,,,,44000805.0
+D_SWD_328_CA_23_2,SWD_328_CA_23,"Swindonâ€™s Railway","",https://www.swindon.gov.uk/download/downloads/id/7006/swindon_railway_works_conservation_area_boundary.pdf,area-map,,,,,44000805.0
+D_SWD_328_CA_24_1,SWD_328_CA_24,"Swindonâ€™s Railway","","https://www.swindon.gov.uk/download/downloads/id/6760/swindon_railway_conservation_area_appraisal_and_management_plan.pdf",area-appraisal,,,,,44000804.0
+D_SWD_328_CA_24_2,SWD_328_CA_24,"Swindonâ€™s Railway","",https://www.swindon.gov.uk/download/downloads/id/7006/swindon_railway_works_conservation_area_boundary.pdf,area-map,,,,,44000804.0
+D_SWD_328_CA_25_1,SWD_328_CA_25,"Swindon Town Gardens","","https://www.swindon.gov.uk/download/downloads/id/5242/conservation_area_appraisal_-_swindon_old_town_gardens.pdf",area-appraisal,,,,,44000790.0
+D_SWD_328_CA_25_2,SWD_328_CA_25,"Swindon Town Gardens","",https://www.swindon.gov.uk/download/downloads/id/5511/swindon_old_town_town_gardens_conservation_area_map.pdf,area-map,,,,,44000790.0
+D_SWD_328_CA_26_1,SWD_328_CA_26,"Upper Inglesham","","https://www.swindon.gov.uk/download/downloads/id/5260/conservation_area_appraisal_-_upper_inglesham.pdf",area-appraisal,,,,,44000807.0
+D_SWD_328_CA_26_2,SWD_328_CA_26,"Upper Inglesham","",https://www.swindon.gov.uk/download/downloads/id/5515/upper_inglesham_conservation_area_map.pdf,area-map,,,,,44000807.0
+D_SWD_328_CA_27_1,SWD_328_CA_27,"Upper Wanborough","","https://www.swindon.gov.uk/download/downloads/id/5262/conservation_area_appraisal_-_upper_wanborough.pdf",area-appraisal,,,,,44000808.0
+D_SWD_328_CA_27_2,SWD_328_CA_27,"Upper Wanborough","",https://www.swindon.gov.uk/download/downloads/id/5516/upper_wanborough_conservation_area_map.pdf,area-map,,,,,44000808.0
+D_SWD_328_CA_28_1,SWD_328_CA_28,"Wroughton","","https://www.swindon.gov.uk/download/downloads/id/5240/conservation_area_appraisal_-_wroughton.pdf",area-appraisal,,,,,44003964.0
+D_SWD_328_CA_28_2,SWD_328_CA_28,"Wroughton","",https://www.swindon.gov.uk/download/downloads/id/5517/wroughton_conservation_area_map.pdf,area-map,,,,,44003964.0

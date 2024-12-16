@@ -1,0 +1,54 @@
+reference,conservation-area,name,documentation-url,document-url,document-type,notes,entry_date,start_date,end_date,entity
+D_TES_338_CA_1_1,TES_338_CA_1,"Abbotts Ann","https://www.testvalley.gov.uk/planning-services/heritage/conservationarea","https://www.testvalley.gov.uk/assets/attach/2810/abbsannconservationareaFORWEB.pdf",area-appraisal,,,,,44001900.0
+D_TES_338_CA_1_2,TES_338_CA_1,"Abbotts Ann","https://www.testvalley.gov.uk/planning-services/heritage/conservationarea",https://www.testvalley.gov.uk/assets/attach/5117/Abbotts-Ann-Character-Appraisal-Map.pdf,area-map,,,,,44001900.0
+D_TES_338_CA_2_1,TES_338_CA_2,"Ampfield","","https://www.testvalley.gov.uk/assets/attach/2811/AmpfieldCons.pdf",area-appraisal,,,,,44002250.0
+D_TES_338_CA_2_2,TES_338_CA_2,"Ampfield","",https://www.testvalley.gov.uk/assets/attach/5118/Ampfield-CA.pdf,area-map,,,,,44002250.0
+D_TES_338_CA_3_1,TES_338_CA_3,"Amport & Monxton","","https://www.testvalley.gov.uk/assets/attach/2812/amportconservationareaFORWEB.pdf",area-appraisal,,,,,44002095.0
+D_TES_338_CA_3_2,TES_338_CA_3,"Amport & Monxton","",https://www.testvalley.gov.uk/assets/attach/5119/Amport-Character-Appraisal-Map.pdf,area-map,,,,,44002095.0
+D_TES_338_CA_4_1,TES_338_CA_4,"Andover","","https://www.testvalley.gov.uk/assets/attach/16058/AndoverCAAMP_20July2021.pdf",area-appraisal,,,,,44001828.0
+D_TES_338_CA_4_2,TES_338_CA_4,"Andover","",https://www.testvalley.gov.uk/assets/attach/15736/AndoverCAA_Boundary-Review_20July2021.pdf,area-map,,,,,44001828.0
+D_TES_338_CA_5_1,TES_338_CA_5,"Appleshaw","","https://www.testvalley.gov.uk/assets/attach/2814/AppleshawCons.pdf",area-appraisal,,,,,44002021.0
+D_TES_338_CA_6_1,TES_338_CA_6,"Barton Stacey","","https://www.testvalley.gov.uk/assets/attach/2815/Barton-Stacey-Character-Appraisal.pdf",area-appraisal,,,,,44001854.0
+D_TES_338_CA_7_1,TES_338_CA_7,"Braishfield","","https://www.testvalley.gov.uk/assets/attach/2817/BraishfieldCons.pdf",area-appraisal,,,,,44002190.0
+D_TES_338_CA_8_1,TES_338_CA_8,"Broughton","","https://www.testvalley.gov.uk/assets/attach/2818/Broughton-Character-Appraisal.pdf",area-appraisal,,,,,44002283.0
+D_TES_338_CA_9_1,TES_338_CA_9,"Chilbolton","","https://www.testvalley.gov.uk/assets/attach/2819/Chilbolton-Character-Appraisal.pdf",area-appraisal,,,,,44001977.0
+D_TES_338_CA_10_1,TES_338_CA_10,"Chilworth Old Village","","https://www.testvalley.gov.uk/assets/attach/2820/ChilworthCons.pdf",area-appraisal,,,,,44002278.0
+D_TES_338_CA_11_1,TES_338_CA_11,"East Cholderton","","https://www.testvalley.gov.uk/assets/attach/2822/amportconservationareaFORWEB.pdf",area-appraisal,,,,,TES_338_CA_11_New
+D_TES_338_CA_11_2,TES_338_CA_11,"East Cholderton","",https://www.testvalley.gov.uk/assets/attach/5120/East-Cholderton-Character-Appraisal-Map.pdf,area-map,,,,,TES_338_CA_11_New
+D_TES_338_CA_12_1,TES_338_CA_12,"Fyfield","","https://www.testvalley.gov.uk/assets/attach/2823/FyfieldCons.pdf",area-appraisal,,,,,44002230.0
+D_TES_338_CA_13_1,TES_338_CA_13,"Goodworth Clatford","","https://www.testvalley.gov.uk/assets/attach/2824/The-Clatfords-Character-Appraisal.pdf",area-appraisal,,,,,44002282.0
+D_TES_338_CA_14_1,TES_338_CA_14,"Grateley","","https://www.testvalley.gov.uk/assets/attach/2825/GrateleyCons.pdf",area-appraisal,,,,,44001808.0
+D_TES_338_CA_15_1,TES_338_CA_15,"Bossington and Houghton","","https://www.testvalley.gov.uk/assets/attach/2816/Houghton-and-Bossington.pdf",area-appraisal,,,,,44002115.0
+D_TES_338_CA_16_1,TES_338_CA_16,"Hurstbourne Tarrant and Ibthorpe","","https://www.testvalley.gov.uk/assets/attach/2829/Hurstbourne-Tarrant-and-Ibthorpe-Character-Appraisal.pdf",area-appraisal,,,,,44002122.0
+D_TES_338_CA_17_1,TES_338_CA_17,"Kimpton","","https://www.testvalley.gov.uk/assets/attach/2830/KimpConArea.pdf",area-appraisal,,,,,44001899.0
+D_TES_338_CA_17_2,TES_338_CA_17,"Kimpton","",https://www.testvalley.gov.uk/assets/attach/5121/Kimpton-CA.pdf,area-map,,,,,44001899.0
+D_TES_338_CA_18_1,TES_338_CA_18,"Kings Somborne","","https://www.testvalley.gov.uk/assets/attach/2831/KingSomConArea.pdf",area-appraisal,,,,,44001894.0
+D_TES_338_CA_18_2,TES_338_CA_18,"Kings Somborne","",https://www.testvalley.gov.uk/assets/attach/5122/Kings-Somborne-Conservation-Area-Map.pdf,area-map,,,,,44001894.0
+D_TES_338_CA_19_1,TES_338_CA_19,"Leckford","","https://www.testvalley.gov.uk/assets/attach/2832/LeckandLongConArea1.pdf",area-appraisal,,,,,44001810.0
+D_TES_338_CA_20_1,TES_338_CA_20,"Linkenholt","","https://www.testvalley.gov.uk/assets/attach/2833/Linkenholt-Character-Appraisal-and-Map.pdf",area-appraisal,,,,,TES_338_CA_20_New
+D_TES_338_CA_21_1,TES_338_CA_21,"Longparish","","https://www.testvalley.gov.uk/assets/attach/2834/Longparish-Character-Appraisal.pdf",area-appraisal,,,,,44002231.0
+D_TES_338_CA_21_2,TES_338_CA_21,"Longparish","",https://www.testvalley.gov.uk/assets/attach/5129/Longparish-Conservation-Area-Map.pdf,area-map,,,,,44002231.0
+D_TES_338_CA_22_1,TES_338_CA_22,"Longstock","","https://www.testvalley.gov.uk/assets/attach/2835/LeckandLongConArea1.pdf",area-appraisal,,,,,44002035.0
+D_TES_338_CA_22_2,TES_338_CA_22,"Longstock","",https://www.testvalley.gov.uk/assets/attach/5130/Longstock-CA.pdf,area-map,,,,,44002035.0
+D_TES_338_CA_23_1,TES_338_CA_23,"Michelmersh","","https://www.testvalley.gov.uk/assets/attach/7916/Michelmersh-and-Mottisfont-Conservation-Policy14.01.1987.pdf",area-appraisal,,,,,44001978.0
+D_TES_338_CA_23_2,TES_338_CA_23,"Michelmersh","",https://www.testvalley.gov.uk/assets/attach/5131/Michelmersh-Conservation-Area-Map.pdf,area-map,,,,,44001978.0
+D_TES_338_CA_24_1,TES_338_CA_24,"Mottisfont","","https://www.testvalley.gov.uk/assets/attach/7916/Michelmersh-and-Mottisfont-Conservation-Policy14.01.1987.pdf",area-appraisal,,,,,44002275.0
+D_TES_338_CA_24_2,TES_338_CA_24,"Mottisfont","",https://www.testvalley.gov.uk/assets/attach/5137/Mottisfont-Conservation-Area-Map.pdf,area-map,,,,,44002275.0
+D_TES_338_CA_25_1,TES_338_CA_25,"Monxton","","https://www.testvalley.gov.uk/assets/attach/2812/amportconservationareaFORWEB.pdf",area-appraisal,,,,,TES_338_CA_25_New
+D_TES_338_CA_25_2,TES_338_CA_25,"Monxton","",https://www.testvalley.gov.uk/assets/attach/5134/Monxton-Character-Appraisal-Map.pdf,area-map,,,,,TES_338_CA_25_New
+D_TES_338_CA_26_1,TES_338_CA_26,"Nether, Over and Middle Wallop","","https://www.testvalley.gov.uk/assets/attach/2837/Wallops-Character-Appraisal.pdf",area-appraisal,,,,,44002222.0
+D_TES_338_CA_27_1,TES_338_CA_27,"Quarley","","https://www.testvalley.gov.uk/assets/attach/2839/QuarleyConArea.pdf",area-appraisal,,,,,44001973.0
+D_TES_338_CA_27_2,TES_338_CA_27,"Quarley","",https://www.testvalley.gov.uk/assets/attach/5141/Quarley-CA.pdf,area-map,,,,,44001973.0
+D_TES_338_CA_28_1,TES_338_CA_28,"Romsey","","https://www.testvalley.gov.uk/assets/attach/11666/Romsey-Conservation-Area-Appraisal-and-Management-Plan-December-2020.pdf",area-appraisal,,,,,44001871.0
+D_TES_338_CA_28_2,TES_338_CA_28,"Romsey","",https://www.testvalley.gov.uk/assets/attach/11667/Romsey-Conservation-Area-Boundary-Amendment-Report-November-2020.pdf,area-map,,,,,44001871.0
+D_TES_338_CA_29_1,TES_338_CA_29,"Stockbridge","","https://www.testvalley.gov.uk/assets/attach/2841/StockConArea.pdf",area-appraisal,,,,,44002140.0
+D_TES_338_CA_29_2,TES_338_CA_29,"Stockbridge","",https://www.testvalley.gov.uk/assets/attach/11667/Romsey-Conservation-Area-Boundary-Amendment-Report-November-2020.pdf,area-map,,,,,44002140.0
+D_TES_338_CA_30_1,TES_338_CA_30,"Penton Mewsey and Penton Grafton","","https://www.testvalley.gov.uk/assets/attach/2838/The-Pentons-Character-Appraisal.pdf",area-appraisal,,,,,44002123.0
+D_TES_338_CA_30_2,TES_338_CA_30,"Penton Mewsey and Penton Grafton","",https://www.testvalley.gov.uk/assets/attach/5143/The-Pentons-Conservation-Area-Character-Appraisal-Map.pdf,area-map,,,,,44002123.0
+D_TES_338_CA_31_1,TES_338_CA_31,"Thruxton","","https://www.testvalley.gov.uk/assets/attach/2842/ThruxConArea.pdf",area-appraisal,,,,,44002314.0
+D_TES_338_CA_31_2,TES_338_CA_31,"Thruxton","",https://www.testvalley.gov.uk/assets/attach/5144/Thruxton-CA.pdf,area-map,,,,,44002314.0
+D_TES_338_CA_32_1,TES_338_CA_32,"Upper Clatford","","https://www.testvalley.gov.uk/assets/attach/2824/The-Clatfords-Character-Appraisal.pdf",area-appraisal,,,,,44002320.0
+D_TES_338_CA_33_1,TES_338_CA_33,"Upton","","https://www.testvalley.gov.uk/assets/attach/2843/UptonConDoc.pdf",area-appraisal,,,,,44001880.0
+D_TES_338_CA_34_1,TES_338_CA_34,"Vernham Dean","","https://www.testvalley.gov.uk/assets/attach/2844/Vernham-Dean-Character-Appraisal.pdf",area-appraisal,,,,,44001786.0
+D_TES_338_CA_35_1,TES_338_CA_35,"West Tytherley","","https://www.testvalley.gov.uk/assets/attach/2846/WestTythConArea.pdf",area-appraisal,,,,,44002291.0
+D_TES_338_CA_36_1,TES_338_CA_36,"Wherwell","","https://www.testvalley.gov.uk/assets/attach/2847/WherwellConArea.pdf",area-appraisal,,,,,44001801.0
